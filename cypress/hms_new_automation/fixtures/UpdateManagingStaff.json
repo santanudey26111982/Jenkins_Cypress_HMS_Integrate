@@ -1,0 +1,26 @@
+{
+    "staffID": "b6463011-0bb0-4c19-b1ce-b21ccff2fd5e",
+    "clinicalPointOfContact": "4455555555",
+    "staffDirectPhoneNo": "2222222222",
+    "staffDirectEmailId": "ty@gmail.com",
+    "metrics1": "",
+    "metrics2": "",
+    "providers": [
+      {
+        "id": "c242d370-e6be-4d5c-ac5d-ead8872f6700",
+        "providerFirstName": "Kelly",
+        "providerLastName": "Stone",
+        "npi": "test",
+        "providerDirectPhoneNo": "3333333333",
+        "providerDirectEmail": "kelly@gmail.com",
+        "staffId": "b6463011-0bb0-4c19-b1ce-b21ccff2fd5e",
+        "staffName": "Wonder",
+        "practiceId": "Prac22",
+        "staffDirectEmail": "wonder@gmail.com",
+        "staffDirectPhoneNo": "788888888",
+        "isDelete": 0,
+        "phoneNumber": "666666666",
+        "emailId": "qw@gmail.com"
+      }
+    ]
+  }

@@ -1,0 +1,18 @@
+{
+    "id": "7f070769-8c2f-4b64-9d3e-63965ba5b5a9",
+    "providerFirstName": "System",
+    "providerLastName": "Desktop",
+    "npi": "test100",
+    "providerDirectPhoneNo": "1236000000",
+    "providerDirectEmail": "system@gmail.com",
+    "clinicalPointOfContact": "3000333333",
+    "staffDirectPhoneNo": "6611000000",
+    "staffDirectEmail": "system230@gmail.com",
+    "managingStaffs": [
+      {
+        "id": "7952ab56-315e-477d-b27b-53605eee5a66",
+        "isDelete": 0
+      }
+    ],
+    "isDelete": 0
+  }

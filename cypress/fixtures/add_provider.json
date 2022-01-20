@@ -1,0 +1,16 @@
+{
+    "id": "",
+    "providerFirstName": "Alex",
+    "providerLastName": "Smith",
+    "npi": "test",
+    "providerDirectPhoneNo": "8569856985",
+    "providerDirectEmail": "alex@gmail.com",
+    "staffId": "",
+    "staffName": "Noil",
+    "practiceId": "f87469fd-ad72-45f5-b4d6-e56a065d2471",
+    "staffDirectEmail": "noil@gmail.com",
+    "staffDirectPhoneNo": "5623659856",
+    "isDelete": 0,
+    "phoneNumber": "4444444444",
+    "emailId": "df@gmail.com"
+  }

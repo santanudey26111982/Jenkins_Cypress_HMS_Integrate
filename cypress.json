@@ -1,0 +1,16 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "defaultCommandTimeout": 10000,
+    "baseUrl": "http://173.248.158.152/HMS.Testing/api",
+
+    "reporter": "mochawesome",
+    "reporterOptions": 
+    {
+       
+            "reportDir": "cypress/reports/mocha",
+            "overwrite": true,
+            "html": true,
+            "json": false
+        }
+    }
+

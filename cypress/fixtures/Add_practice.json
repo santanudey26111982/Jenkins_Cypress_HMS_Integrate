@@ -1,0 +1,16 @@
+{
+  "userId": "",
+  "clinicName": "ABCD",
+  "phoneNumber": "4567890345",
+  "faxNumber": "2345111111",
+  "emailId": "abcd@gmail.com",
+  "address1": "SA",
+  "address2": "HJ",
+  "city": "MA",
+  "state": "USA",
+  "zip": "10005",
+  "adminPointOfContact": "9078956452",
+  "directPhoneNumber": "2333445555",
+  "directEmail": "achn@gmail.com",
+  "isDelete": 0
+}
